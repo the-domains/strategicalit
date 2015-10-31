@@ -1,6 +1,6 @@
 name: StrategicalIT
 favicon: null
-layout_spectrum: 0.735129885841161
+layout_spectrum: 1
 typography_spectrum: 0.2485086831729859
 title: 'Idea’s, thoughts and hopefully discussions related to IT in Business by Richard Houghton'
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.3634818142745644
+  brandStrength: 0.375
   lightness: 0.3337515559978783
   saturation: 0.21697242138907313
   rhythmicContrast: 0.13177913520485163
