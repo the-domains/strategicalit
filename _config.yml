@@ -1,0 +1,23 @@
+name: StrategicalIT
+favicon: null
+layout_spectrum: 0.735129885841161
+typography_spectrum: 0.2485086831729859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3634818142745644
+  lightness: 0.3337515559978783
+  saturation: 0.21697242138907313
+  rhythmicContrast: 0.13177913520485163
+purpose: []
