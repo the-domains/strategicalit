@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Strategical IT Blog Disclaimer
-datePublished: '2015-10-31T04:38:06.942Z'
-dateModified: '2015-10-31T04:37:49.824Z'
+datePublished: '2015-10-31T04:41:23.524Z'
+dateModified: '2015-10-31T04:41:14.275Z'
 title: Disclaimer
 authors: []
 publisher:
