@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Idea’s, thoughts and hopefully discussions related to IT in Business by Richard Houghton]]></title>
         <description><![CDATA[Idea’s, thoughts and hopefully discussions related to IT in Business by Richard Houghton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strategicalit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 05:22:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 05:23:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strategicalit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why doesn't this work]]></title>
+            <description><![CDATA[<article><h1>Why doesn't this work</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f17b2e2-ab37-4320-aade-3d35755656ab.tiff"></article>]]></description>
+            <link>https://thegrid.ai/strategicalit/why-doesnt-this-work/index.html</link>
+            <guid isPermaLink="false">a434f802-ee30-43e3-8f26-bc865c3c05c0</guid>
+            <pubDate>Sat, 31 Oct 2015 05:23:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disclaimer]]></title>
             <description><![CDATA[<article><h1>Disclaimer</h1><p>Strategical IT Blog Disclaimer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23834f4f-6a3a-4fc3-b465-4c1cb720cc99.gif"></article>]]></description>
-            <link>undefineddisclaimer/index.html</link>
+            <link>https://thegrid.ai/strategicalit/disclaimer/index.html</link>
             <guid isPermaLink="false">4e804bdb-4187-46a3-b86f-f73e324f8403</guid>
             <pubDate>Sat, 31 Oct 2015 05:22:25 GMT</pubDate>
         </item>
