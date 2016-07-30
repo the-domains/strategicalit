@@ -1,8 +1,10 @@
 name: StrategicalIT
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2485086831729859
-title: 'Idea’s, thoughts and hopefully discussions related to IT in Business by Richard Houghton'
+typography_spectrum: 0.75
+title: >-
+  Idea’s, thoughts and hopefully discussions related to IT in Business by
+  Richard Houghton
 cta:
   domain: null
   bucket: null
